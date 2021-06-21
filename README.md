@@ -11,6 +11,7 @@ Fibonacci Series is a number series starting with the values 0 and 1, the next i
 Lucas Numbers is a number series that start with the values 2 and 1, the next interger is determined by the sum of the previous numbers. The first 12 numbers in the Lucas Sequence: `2, 1, 3, 4, 7, 11, 18, 29, 47, 76`
 
 ## Change Log
+[Github PR](https://github.com/Edward-Regalado/math-series/pull/1)
 
 06/14/21:
 * First commit
